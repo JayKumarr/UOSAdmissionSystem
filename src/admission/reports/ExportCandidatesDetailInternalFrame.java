@@ -37,7 +37,7 @@ import admission.utils.RollNoFormatter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ExportCandidatesDetailInternalFrame extends javax.swing.JInternalFrame {
 

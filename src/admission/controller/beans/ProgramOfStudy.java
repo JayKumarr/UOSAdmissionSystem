@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ProgramOfStudy {
     private CposGroup cposg;

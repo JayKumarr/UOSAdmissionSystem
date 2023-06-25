@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 
 public class Category {

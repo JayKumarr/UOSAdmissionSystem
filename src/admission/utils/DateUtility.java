@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 
 public class DateUtility {

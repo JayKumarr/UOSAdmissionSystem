@@ -4,7 +4,7 @@ import java.io.File;
 import javax.swing.filechooser.FileFilter;
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
  
 public class FileTypeFilter extends FileFilter {

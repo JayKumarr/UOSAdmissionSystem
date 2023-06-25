@@ -19,7 +19,7 @@ import javax.swing.text.JTextComponent;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class DefaulPopupEventQueue extends EventQueue {
 

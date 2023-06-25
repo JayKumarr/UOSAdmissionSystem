@@ -23,7 +23,7 @@ import javax.swing.text.DateFormatter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ChallanGeneratorDialog extends javax.swing.JDialog {
 

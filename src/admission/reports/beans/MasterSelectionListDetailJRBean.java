@@ -3,7 +3,7 @@ package admission.reports.beans;
 
 /**
  *
- * @author Yougeshwar Khatri, Adeel
+ * @author Yougeshwar Khatri & Jay, Adeel
  */
 public class MasterSelectionListDetailJRBean {
  

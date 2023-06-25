@@ -524,7 +524,7 @@ public class MainFrame extends javax.swing.JFrame {
         jLabel4.setText("Developed By:");
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel5.setText("Yougeshwar Khatri");
+        jLabel5.setText("Yougeshwar Khatri & Jay");
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel6.setText("Final Year Project at IMCS, University Of Sindh, Jamshoro 2013");

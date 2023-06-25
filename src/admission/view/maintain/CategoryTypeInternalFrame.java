@@ -19,7 +19,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class CategoryTypeInternalFrame extends javax.swing.JInternalFrame {
 

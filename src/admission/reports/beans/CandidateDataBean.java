@@ -18,7 +18,7 @@ import admission.utils.RollNoFormatter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class CandidateDataBean {
      //private Integer candidateId;

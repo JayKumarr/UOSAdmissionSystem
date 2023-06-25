@@ -18,7 +18,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ShiftInternalFrame extends javax.swing.JInternalFrame {
 

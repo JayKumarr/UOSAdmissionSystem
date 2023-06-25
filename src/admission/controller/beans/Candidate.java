@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class Candidate {
     private int candidateId;

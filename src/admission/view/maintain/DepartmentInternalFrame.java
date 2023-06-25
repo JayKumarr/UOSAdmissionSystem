@@ -22,7 +22,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class DepartmentInternalFrame extends javax.swing.JInternalFrame {
 

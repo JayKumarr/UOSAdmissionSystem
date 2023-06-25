@@ -30,7 +30,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class DefineSeatDistributionDialog extends javax.swing.JDialog {
 

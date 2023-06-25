@@ -4,7 +4,7 @@ import admission.model.security.Resources;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class AdmissionListInternalFrame extends javax.swing.JInternalFrame {
 

@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class Sorter {
     public static List sort(Set data) {

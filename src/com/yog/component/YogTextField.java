@@ -12,7 +12,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class YogTextField extends JTextField{
     

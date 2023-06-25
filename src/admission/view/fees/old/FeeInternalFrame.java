@@ -16,7 +16,7 @@ import javax.swing.text.DocumentFilter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class FeeInternalFrame extends javax.swing.JInternalFrame {
 

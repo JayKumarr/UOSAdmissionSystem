@@ -12,7 +12,7 @@ import javax.swing.JFormattedTextField;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class YogFormattedTextField extends JFormattedTextField{
     private String placeHolder;

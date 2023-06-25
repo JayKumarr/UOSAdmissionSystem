@@ -17,7 +17,7 @@ import admission.utils.CandidateHelper;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class CandidateUpdate {
     public static void main(String[] args) throws SQLException {

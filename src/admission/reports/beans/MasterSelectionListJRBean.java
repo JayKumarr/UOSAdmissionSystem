@@ -4,7 +4,7 @@ import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
 
 /**
  *
-* @author Yougeshwar Khatri, Adeel
+* @author Yougeshwar Khatri & Jay, Adeel
  */
 public class MasterSelectionListJRBean {
     private String campus;

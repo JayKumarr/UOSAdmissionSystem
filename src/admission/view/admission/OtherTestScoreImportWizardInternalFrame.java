@@ -26,7 +26,7 @@ import admission.utils.ExcelDocumentReader;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class OtherTestScoreImportWizardInternalFrame extends javax.swing.JInternalFrame {
 

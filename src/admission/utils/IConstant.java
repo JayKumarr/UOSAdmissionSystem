@@ -2,7 +2,7 @@ package admission.utils;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public interface IConstant {
     

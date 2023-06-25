@@ -50,7 +50,7 @@ import net.sf.jasperreports.engine.xml.JRXmlLoader;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class CampusProgramOfStudyGroupInformationInternalFrame extends javax.swing.JInternalFrame {
 

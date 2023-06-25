@@ -23,7 +23,7 @@ import admission.utils.DateUtility;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class BankSelectionReport {
     private static final int MAX_PER_PAGE = 20;

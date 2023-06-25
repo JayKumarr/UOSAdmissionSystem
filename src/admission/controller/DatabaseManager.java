@@ -34,7 +34,7 @@ import org.hibernate.criterion.Restrictions;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class DatabaseManager {
 

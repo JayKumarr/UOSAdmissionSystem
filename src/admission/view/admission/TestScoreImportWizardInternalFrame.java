@@ -29,7 +29,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class TestScoreImportWizardInternalFrame extends javax.swing.JInternalFrame {
 

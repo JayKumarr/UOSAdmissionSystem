@@ -42,7 +42,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Adeel, Yougeshwar Khatri 
+ * @author Adeel, Yougeshwar Khatri & Jay 
  */
 public class ClassFeeInternalFrame extends javax.swing.JInternalFrame {
 

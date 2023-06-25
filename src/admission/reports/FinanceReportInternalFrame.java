@@ -21,7 +21,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class FinanceReportInternalFrame extends javax.swing.JInternalFrame {
 

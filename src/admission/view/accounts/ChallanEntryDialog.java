@@ -21,7 +21,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ChallanEntryDialog extends javax.swing.JDialog {
 

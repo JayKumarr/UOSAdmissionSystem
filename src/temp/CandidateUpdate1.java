@@ -19,7 +19,7 @@ import admission.utils.IConstant;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class CandidateUpdate1 {
     public static void main(String[] args) throws SQLException, FileNotFoundException, IOException {

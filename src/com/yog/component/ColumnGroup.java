@@ -6,7 +6,7 @@ package com.yog.component;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 import java.util.*;
 import java.awt.*;

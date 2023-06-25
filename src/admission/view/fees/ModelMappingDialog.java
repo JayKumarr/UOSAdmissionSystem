@@ -18,7 +18,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Adeel, Yougeshwar Khatri
+ * @author Adeel, Yougeshwar Khatri & Jay
  */
 public class ModelMappingDialog extends javax.swing.JDialog {
 

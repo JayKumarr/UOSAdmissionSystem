@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class DataLoaderNew2014_MASTER2 {
     public static void main(String[] args) throws FileNotFoundException, SQLException {

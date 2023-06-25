@@ -23,7 +23,7 @@ import admission.utils.IConstant;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class MainSelection {
 

@@ -25,7 +25,7 @@ import admission.utils.ImageUtils;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class IDCardReport {
     private static final int WIDTH = 3 * 72;

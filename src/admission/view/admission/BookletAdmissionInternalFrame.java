@@ -34,7 +34,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class BookletAdmissionInternalFrame extends javax.swing.JInternalFrame {
 

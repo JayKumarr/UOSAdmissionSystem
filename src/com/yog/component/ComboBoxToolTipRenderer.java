@@ -6,7 +6,7 @@ import javax.swing.JComponent;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ComboBoxToolTipRenderer extends DefaultListCellRenderer {
     List<String> tooltips;

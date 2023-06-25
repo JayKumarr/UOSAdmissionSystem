@@ -4,7 +4,7 @@ import java.awt.Cursor;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class BusyIndicator extends javax.swing.JDialog {
 

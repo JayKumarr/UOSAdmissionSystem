@@ -4,7 +4,7 @@ import admission.model.Campus;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class HierarchyDataBean {
     private Campus campus;

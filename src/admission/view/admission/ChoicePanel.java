@@ -17,7 +17,7 @@ import admission.utils.IConstant;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ChoicePanel extends javax.swing.JPanel {
 

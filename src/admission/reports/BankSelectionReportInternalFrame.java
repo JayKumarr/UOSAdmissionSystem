@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class BankSelectionReportInternalFrame extends javax.swing.JInternalFrame {
 

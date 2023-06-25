@@ -63,7 +63,7 @@ import admission.utils.DateUtility;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ReportViewerInternalFrame2 extends javax.swing.JInternalFrame {
 

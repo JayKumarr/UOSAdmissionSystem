@@ -23,7 +23,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Adeel, Yougeshwar Khatri
+ * @author Adeel, Yougeshwar Khatri & Jay
  */
 public class FeeModelInternalFrame extends javax.swing.JInternalFrame {
 

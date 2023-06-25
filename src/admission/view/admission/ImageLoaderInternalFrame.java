@@ -24,7 +24,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ImageLoaderInternalFrame extends javax.swing.JInternalFrame {
 

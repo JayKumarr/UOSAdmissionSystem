@@ -24,7 +24,7 @@ import admission.utils.RollNoFormatter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class ProgramInformationReport {
     private static final int MAX_PER_PAGE = 44;

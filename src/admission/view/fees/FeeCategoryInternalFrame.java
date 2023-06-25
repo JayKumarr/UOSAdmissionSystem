@@ -25,7 +25,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Adeel, Yougeshwar Khatri
+ * @author Adeel, Yougeshwar Khatri & Jay
  */
 public class FeeCategoryInternalFrame extends javax.swing.JInternalFrame {
 

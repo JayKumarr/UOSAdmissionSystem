@@ -31,7 +31,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class AccountInternalFrame extends javax.swing.JInternalFrame {
 

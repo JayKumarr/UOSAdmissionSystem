@@ -19,7 +19,7 @@ import admission.utils.RoundedBorder;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class IssuerInternalFrame extends javax.swing.JInternalFrame {
 

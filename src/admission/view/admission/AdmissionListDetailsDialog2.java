@@ -51,7 +51,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class AdmissionListDetailsDialog2 extends javax.swing.JDialog {
 

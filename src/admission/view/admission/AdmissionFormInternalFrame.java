@@ -18,7 +18,7 @@ import static admission.utils.Utility.getTabTitle;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class AdmissionFormInternalFrame extends javax.swing.JInternalFrame {
 

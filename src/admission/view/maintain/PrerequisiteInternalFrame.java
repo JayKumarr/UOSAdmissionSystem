@@ -24,7 +24,7 @@ import admission.utils.Sorter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class PrerequisiteInternalFrame extends javax.swing.JInternalFrame {
 

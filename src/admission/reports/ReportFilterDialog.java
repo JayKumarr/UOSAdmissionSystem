@@ -233,7 +233,7 @@ public class ReportFilterDialog extends javax.swing.JDialog {
                         rfp.fillReportParameter(parameterMap);
                         parameterMap.put("SUBREPORT_DIR", getClass().getResource("/reports/").toString());
                         parameterMap.put("PRINTED_BY", CommonHelper.getActiveUserName());
-                        parameterMap.put("DEVELOPED_BY", "YOUGESHWAR KHATRI");
+                        parameterMap.put("DEVELOPED_BY", "Yougeshwar Khatri & Jay");
 
 //                        AsynchronousFillHandle createHandle = AsynchronousFillHandle.createHandle(jr, parameterMap, beanColDataSource);
 //                        createHandle.addFillListener(new FillListener() {

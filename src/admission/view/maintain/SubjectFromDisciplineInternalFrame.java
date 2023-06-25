@@ -22,7 +22,7 @@ import admission.utils.Sorter;
 
 /**
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class SubjectFromDisciplineInternalFrame extends javax.swing.JInternalFrame {
 

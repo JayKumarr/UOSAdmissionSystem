@@ -14,7 +14,7 @@ import admission.utils.IConstant;
  * Hibernate Utility class with a convenient method to get Session Factory
  * object.
  *
- * @author Yougeshwar Khatri
+ * @author Yougeshwar Khatri & Jay
  */
 public class HibernateUtil {
 

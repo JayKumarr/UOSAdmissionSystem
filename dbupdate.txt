@@ -1,0 +1,5 @@
+ALTER TABLE `us_admission`.`cpos_group` ADD COLUMN `group_code` INT(11) AFTER `code`;
+ALTER TABLE `us_admission`.`cpos_group` DROP COLUMN `group_code`;
+ALTER TABLE `us_admission`.`applied_category` ADD COLUMN `code` INT(11) AFTER `remarks`;
+ALTER TABLE `us_admission`.`campus_program_of_study` ADD COLUMN `jurisdiction` INT(11) AFTER `is_quota_oriented`;
+ALTER TABLE `us_admission`.`campus_program_of_study` DROP COLUMN `jurisdiction`;
